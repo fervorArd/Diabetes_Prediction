@@ -31,17 +31,17 @@ The data was split in the following way:
 
 The model was trained for 505 epochs and these are the loss and accuracy plots:
 
-![alt text](C:\Users\chandrakant\Pictures\Screenshots\loss.png)
+![alt text](loss.png)
 
 *The model has overfit the data. You can add more data for better results.[Overfitting](https://www.youtube.com/watch?v=DEMmkFC6IGM)
 
-![alt text](C:\Users\chandrakant\Pictures\Screenshots\accuracy.png)
+![alt text](accuracy.png)
 
 ## Performance Analysis
 
 ### Confusion Matrix
 
-![alt text](C:\Users\chandrakant\Pictures\Screenshots\confusion_matrix.png)
+![alt text](confusion_matrix.png)
 
 ### F1_measure
 
